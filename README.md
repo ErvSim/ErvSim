@@ -1,2 +1,5 @@
 <h2>Projects</h2>
-- [Arithmetic Calculator](...)
+
+- <b>Home Labs</b>
+  - SOC Automation
+    - [Part 1](https://github.com/Yagoobz/SOCAutomationProjectPart1)
