@@ -2,3 +2,4 @@ Hello! My name is Ervin Simonian and i'm currently a CSUN student expected to gr
 <h2>Projects</h2>
 
 - [Arithmetic Calculator](https://github.com/ErvSim/Arithmetic-Calculator)
+- [Braking System for Electric Scooter using Fuzzy Logic Implementation](https://github.com/ErvSim/Braking-System-For-Electric-Scooter/blob/main)
