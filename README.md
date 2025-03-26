@@ -4,3 +4,4 @@ Hello! My name is Ervin Simonian and i'm currently a CSUN student expected to gr
 - [Arithmetic Calculator](https://github.com/ErvSim/Arithmetic-Calculator)
 - [Braking System for Electric Scooter using Fuzzy Logic Implementation](https://github.com/ErvSim/Braking-System-For-Electric-Scooter/blob/main)
 - [RGB_LED_Using_PWM](https://github.com/ErvSim/RGB_LED_Using_PWM)
+- [I2C 1602LCD](https://github.com/ErvSim/I2C-LCD1602)
