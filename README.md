@@ -8,3 +8,4 @@ Hello! My name is Ervin Simonian and i'm currently a CSUN student expected to gr
 - [Ultrasonic-Sensor-with-Interrupts](https://github.com/ErvSim/Ultrasonic-Sensor-with-Interrupts/tree/main)
 - [Lockbox Safe](https://github.com/ErvSim/Lockbox_Safe)
 - [UART Dual Pico Communcation](https://github.com/ErvSim/UART_Dual_Communcation_Via_Picos)
+- [RFID via SPI](https://github.com/ErvSim/RFID_SPI/tree/main)
