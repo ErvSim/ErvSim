@@ -10,3 +10,4 @@ Hello! My name is Ervin Simonian and i'm currently a CSUN student expected to gr
 - [UART Dual Pico Communcation](https://github.com/ErvSim/UART_Dual_Communcation_Via_Picos)
 - [RFID via SPI](https://github.com/ErvSim/RFID_SPI/tree/main)
 - [Combined Embedded Project](https://github.com/ErvSim/Combined_Embedded_Project/tree/main)
+- [RC Car](https://github.com/ErvSim/RC_Car/tree/main)
